@@ -1,0 +1,8 @@
+Nov 18, 2023 11:35:46 PM aspectos.LoggingAspect crearLog
+INFO: Fecha y Hora: 2023-11-18 23:35:46, Tipo de Figura: Line, Color: java.awt.Color[r=255,g=0,b=0], Coordenadas: (296, 200)
+Nov 18, 2023 11:35:47 PM aspectos.LoggingAspect crearLog
+INFO: Fecha y Hora: 2023-11-18 23:35:47, Tipo de Figura: Circle, Color: java.awt.Color[r=255,g=0,b=0], Coordenadas: (257, 247)
+Nov 18, 2023 11:35:48 PM aspectos.LoggingAspect crearLog
+INFO: Fecha y Hora: 2023-11-18 23:35:48, Tipo de Figura: Circle, Color: java.awt.Color[r=255,g=0,b=0], Coordenadas: (321, 201)
+Nov 18, 2023 11:35:50 PM aspectos.LoggingAspect crearLog
+INFO: Fecha y Hora: 2023-11-18 23:35:50, Tipo de Figura: FilledCircle, Color: java.awt.Color[r=255,g=0,b=0], Coordenadas: (478, 265)
